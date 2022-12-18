@@ -9,3 +9,6 @@
 * Java Script Basics
 * Git, GitHub
 * VS Code
+## Education: 
+* BSUIR: student of Faculty of information security
+
