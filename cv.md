@@ -11,4 +11,8 @@
 * VS Code
 ## Education: 
 * BSUIR: student of Faculty of information security
+## Language:
+* Belarussian - Native
+* Russian - Native
+* English - Initial
 
